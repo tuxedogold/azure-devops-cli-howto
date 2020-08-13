@@ -1,7 +1,7 @@
 # azure-devops-cli-howto
 
 First install the following cli utility called az
- * 
+ * https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 Then install the extension for az called 'az-devops' found here:
  * https://github.com/Azure/azure-devops-cli-extension
 
