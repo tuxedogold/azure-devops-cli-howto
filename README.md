@@ -8,15 +8,15 @@ Then install the extension for az called 'az-devops' found here:
 If you work with multiple projects, or multiple organizations you will want to set these values as the one you most frequently use, you can override this by specifying the parameter in your indvidiual command
 
 Next, configure your organization you plan to work with:
- *az devops configure --defaults organization=https://dev.azure.com/[OrganizationName]
+ * az devops configure --defaults organization=https://dev.azure.com/[OrganizationName]
  
 Then configure your project you will work with
- *az devops configure --defaults project=[ProjectName]
+ * az devops configure --defaults project=[ProjectName]
 
 then log into azure via cli with your credentails
- *az login
+ * az login
 if you are using a PAT, then use
- *az devops login
+ * az devops login
 
 finally you are able run devops commands in your workspace!
 see the available commands here
