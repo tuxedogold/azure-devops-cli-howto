@@ -2,6 +2,7 @@
 
 First install the following cli utility called az
  * https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
+ 
 Then install the extension for az called 'az-devops' found here:
  * https://github.com/Azure/azure-devops-cli-extension
 
@@ -15,6 +16,7 @@ Then configure your project you will work with
 
 then log into azure via cli with your credentails
  * az login
+ 
 if you are using a PAT, then use
  * az devops login
 
