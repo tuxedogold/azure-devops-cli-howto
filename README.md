@@ -22,6 +22,6 @@ if you are using a PAT, then use
 
 finally you are able run devops commands in your workspace!
 see the available commands here
-https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/repos/pr?view=azure-cli-latest
+ * https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/repos/pr?view=azure-cli-latest
 
 
